@@ -1,4 +1,5 @@
 /data/*
-!/data/.gitkeep
 /backup/*
-!/backup/.gitkeep
+FileList.csv
+dir.txt
+!.gitkeep
