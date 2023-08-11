@@ -1,5 +1,7 @@
-/data/*
+/data/*.txt
 /backup/*
 FileList.csv
 dir.txt
+*~
+!/data/15/.gitkeep
 !.gitkeep
